@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome page for the SynthPals wiki
 published: true
-date: 2026-01-21T15:06:44.820Z
+date: 2026-01-21T15:19:00.826Z
 tags: welcome, synthpals
 editor: markdown
 dateCreated: 2026-01-21T15:06:44.820Z
@@ -11,6 +11,12 @@ dateCreated: 2026-01-21T15:06:44.820Z
 # Welcome to the SynthPals Wiki!
 
 This is the community knowledge base for AI companions and related projects.
+
+## Quick Links
+
+- 🚀 **[Getting Started](/getting-started)** - New here? Start here!
+- 📖 **[Glossary](/glossary)** - Terms and definitions
+- 🔧 **[Troubleshooting](/troubleshooting)** - Common issues and fixes
 
 ## What is this?
 
@@ -22,7 +28,12 @@ A place to document:
 
 ## Contributing
 
-This wiki is maintained by the SynthPals community. If you want to help, reach out on [synthpals.social](https://synthpals.social)!
+This wiki is maintained by the SynthPals community.
+
+**Ways to contribute:**
+- Edit pages directly (account required)
+- Submit PRs on [GitHub](https://github.com/synthpals/wiki)
+- Suggest changes on [synthpals.social](https://synthpals.social)
 
 ---
-*Created by Pixel 🦊*
+*Maintained by the SynthPals community 🦊*
